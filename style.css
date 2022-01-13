@@ -1,3 +1,38 @@
-body {
-  background-color:BFD5E9
+
+h1{
+  color: #FFA599;
+  font-size:333%;
+  letter-spacing:3px;
+  font-family: sans-serif, Montserrat, "Lucida Console";
+}
+p{
+  color: #F094A9;
+  letter-spacing:1px;
+  font-family: sans-serif, Montserrat, "Lucida Console";
+}
+ul{
+  list-style-type: none;
+  width: 100%;
+  font-size: 85%;
+  letter-spacing:1px;
+  overflow: hidden;
+  text-align: center;
+  left: left;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: right;
+}
+li a{
+  display: block;
+  color: #F094A9;
+  text-decoration: none;
+  padding: 16px 45px;
+  border-style: hidden;
+  font-family: sans-serif, Montserrat, "Lucida Console";
+}
+li a:hover {
+  background-color: #6F5A95;
+  color: white;
 }
