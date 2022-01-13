@@ -36,3 +36,7 @@ li a:hover {
   background-color: #6F5A95;
   color: white;
 }
+img {
+  width: 10%;
+  height: 10%;
+}
